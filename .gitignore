@@ -1,0 +1,41 @@
+# Unity generated data, at repository root or a nested Unity project
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# IDE / operating system files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+.DS_Store
+Thumbs.db
+
+# Private local configuration and user data
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+UserData/
+LocalConfig/
+
+# Local model caches; approved redistribution must be handled explicitly
+ModelCache/
+models-local/
