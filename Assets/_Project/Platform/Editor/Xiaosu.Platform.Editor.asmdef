@@ -1,0 +1,11 @@
+{
+  "name": "Xiaosu.Platform.Editor",
+  "references": [
+    "Xiaosu.Platform",
+    "Xiaosu.Bootstrap"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "noEngineReferences": false
+}

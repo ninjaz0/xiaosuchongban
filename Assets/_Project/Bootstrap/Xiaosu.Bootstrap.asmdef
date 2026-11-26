@@ -4,7 +4,8 @@
     "Xiaosu.Avatar",
     "Xiaosu.Core",
     "Xiaosu.CompanionAI.LLM",
-    "Xiaosu.CompanionAI.Speech"
+    "Xiaosu.CompanionAI.Speech",
+    "Xiaosu.Platform"
   ],
   "noEngineReferences": false
 }
