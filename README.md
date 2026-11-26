@@ -6,7 +6,7 @@
 
 ## 开始协作
 
-- [产品需求文档（PRD v0.3）](docs/prd-v0.3.md)
+- [产品需求文档（PRD v0.4）](docs/prd-v0.4.md)
 - [贡献与 PR 流程](CONTRIBUTING.md)
 - [架构边界](docs/architecture.md)
 - [阶段与验收](docs/roadmap.md)
