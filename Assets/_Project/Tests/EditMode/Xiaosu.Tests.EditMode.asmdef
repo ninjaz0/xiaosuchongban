@@ -3,7 +3,8 @@
   "references": [
     "Xiaosu.Bootstrap",
     "Xiaosu.Core",
-    "Xiaosu.CompanionAI.LLM"
+    "Xiaosu.CompanionAI.LLM",
+    "Xiaosu.Platform"
   ],
   "noEngineReferences": false,
   "includePlatforms": [
